@@ -13,5 +13,5 @@ Need to modify the Pandas DataFrame column header name according to respective d
 # Dependecies 
 Numpy, 
 Pandas, 
-nltk(punkt,wordnet),
-sklearn.utils
+nltk (punkt,wordnet) ,
+sklearn
