@@ -1,6 +1,6 @@
 # Common-Text Data-Preprocessing-for machine learning-With-Python
 
-Common Text data preprosessing techniques.s
+Common Text data preprosessing techniques.
 
 Should work on both python 2.7+ and python 3.
 Python 3 is the preferred version.
@@ -11,7 +11,7 @@ Need to modify the Pandas DataFrame column header name according to respective d
 
 
 # Dependecies 
-Numpy, 
-Pandas, 
-nltk (punkt,wordnet) ,
-sklearn
+- Numpy
+- Pandas 
+- nltk (punkt,wordnet) 
+- sklearn
