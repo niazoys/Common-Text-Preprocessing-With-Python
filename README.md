@@ -1,6 +1,6 @@
 # Common-Text Data-Preprocessing-for machine learning-With-Python
 
-Common Text data preprosessing techniques.
+Common Text data preprocessing techniques.
 
 Should work on both python 2.7+ and python 3.
 Python 3 is the preferred version.
